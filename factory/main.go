@@ -1,3 +1,6 @@
+// Implement an example of factory design pattern
+// Resource: https://refactoring.guru/design-patterns/factory-method/go/example
+
 package main
 
 import "fmt"
